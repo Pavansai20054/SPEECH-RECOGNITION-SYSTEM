@@ -1,3 +1,14 @@
+# Internship Details:
+
+***COMPANY:*** CODTECH IT SOLUTIONS  
+***NAME:*** RANGDAL PAVANSAI  
+***INTERN ID:*** C0DF200  
+***DOMAIN:*** Artificial Intelligence Markup Language (AIML Internship)  
+***DURATION:*** 4 WEEKS
+***MENTOR:*** NEELA SANTHOSH
+
+
+
 # Speech Recognition Transcriber
 
 ![Speech Recognition](https://img.shields.io/badge/Speech-Recognition-blue)
